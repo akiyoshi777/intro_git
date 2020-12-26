@@ -1,2 +1,4 @@
 githubの最初の動作をします。
 変更をしました。
+・git add
+・git commit
