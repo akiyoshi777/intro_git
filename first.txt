@@ -3,3 +3,4 @@ githubの最初の動作をします。
 ・git add
 ・git commit
 ・git rm
+・git status
